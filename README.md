@@ -7,7 +7,8 @@
 * All of the data used was provided by edX and we adapted the code to fit the needs of the project with some noted online resources in our notebook.
   
 <h2> Navigation </h2>
-* All of the data used was provided by edX and we adapted the code to fit the needs of the project with some noted online resources in our notebook.
+
+
 * The original data used for the project can be found as excel files in the Resources folder.
 * Our extracted and transformed data for more digestable analysis can be found in the Resource folder as .csv files.
 * Our notebook detailing the ETL (Extract, Transform, Load) process can be found in the jupyter notebook file in the main folder. 

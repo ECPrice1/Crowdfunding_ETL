@@ -14,3 +14,4 @@
 * Our notebook detailing the ETL (Extract, Transform, Load) process can be found in the jupyter notebook file in the main folder. 
 * Our screenshots of the data appearing in our database can be found in the Resources folder.
 * Our table creation schema can be found in the main folder as a .sql file.
+* Our ERD diagram can be found in the Resources folder.

@@ -1,3 +1,5 @@
+CREATE DATABASE crowdfunding_db;
+
 CREATE TABLE Contacts(
 	contact_id INT,
 	first_name varchar(200) NOT NULL,
